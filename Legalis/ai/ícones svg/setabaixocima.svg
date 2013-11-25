@@ -4,9 +4,9 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
 <g>
-	<polygon points="57.761,32.775 6.239,32.775 31.572,59.383 	"/>
+	<polygon fill="#231F20" points="57.762,34.775 6.24,34.775 31.572,59.383 	"/>
 </g>
 <g>
-	<polygon points="6.239,31.225 57.761,31.225 32.428,4.617 	"/>
+	<polygon fill="#231F20" points="6.24,29.225 57.762,29.225 32.428,4.617 	"/>
 </g>
 </svg>
